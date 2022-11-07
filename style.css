@@ -166,5 +166,8 @@ h4 {
    .attribution {
 display: none;
   }
+  body {
+    max-width:50vh ;
+  }
   
 }
