@@ -156,11 +156,15 @@ h4 {
 }
 
 
-@media (max-width: 600px) {
+@media  only screen and (max-width: 600px) {
 
 
   .card {
     width: 350px;
 
   }
+   .attribution {
+display: none;
+  }
+  
 }
